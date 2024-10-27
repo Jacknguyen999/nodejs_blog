@@ -1,0 +1,28 @@
+{
+  "name": "nodejsf8",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacknguyen999/nodejs_blog.git"
+  },
+  "keywords": [
+    "blog",
+    "nodejs"
+  ],
+  "author": "Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacknguyen999/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/Jacknguyen999/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
